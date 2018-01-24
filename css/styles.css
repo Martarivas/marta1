@@ -1,0 +1,10 @@
+.caja1{
+	width: 300px;
+	heigth: 200px;
+	padding: 20px;
+	overflow: visible;
+	background-color: grey;	}
+
+.body{	
+	background-color: turquoise;
+	}
